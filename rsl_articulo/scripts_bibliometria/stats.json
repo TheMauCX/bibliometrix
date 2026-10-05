@@ -1,0 +1,912 @@
+{
+ "AB1": {
+  "tem": {
+   "2020": 0,
+   "2021": 8,
+   "2022": 4,
+   "2023": 15,
+   "2024": 33,
+   "2025": 51,
+   "2026": 30
+  },
+  "tem_facial": {
+   "2020": 0,
+   "2021": 2,
+   "2022": 0,
+   "2023": 3,
+   "2024": 6,
+   "2025": 16,
+   "2026": 12
+  },
+  "inc34": {
+   "2020": 0,
+   "2021": 1,
+   "2022": 0,
+   "2023": 4,
+   "2024": 12,
+   "2025": 13,
+   "2026": 4
+  }
+ },
+ "cobertura": {
+  "tem": 141,
+  "tem_con_kw": 88,
+  "inc34": 34,
+  "inc34_con_kw": 31
+ },
+ "AB2": {
+  "nodos": 82,
+  "aristas": 179,
+  "modularidad": 0.292,
+  "terminos_freq": [
+   [
+    "privacy protection",
+    43
+   ],
+   [
+    "face recognition",
+    29
+   ],
+   [
+    "adversarial examples",
+    29
+   ],
+   [
+    "diffusion models",
+    24
+   ],
+   [
+    "unlearnable examples",
+    17
+   ],
+   [
+    "poisoning attacks",
+    15
+   ],
+   [
+    "protective perturbation",
+    14
+   ],
+   [
+    "facial privacy protection",
+    12
+   ],
+   [
+    "data protection",
+    11
+   ],
+   [
+    "black-box setting",
+    9
+   ],
+   [
+    "contrastive learning",
+    8
+   ],
+   [
+    "purification",
+    7
+   ],
+   [
+    "surrogate model",
+    5
+   ],
+   [
+    "differential privacy",
+    5
+   ],
+   [
+    "copyright protection",
+    4
+   ]
+  ],
+  "comunidades": [
+   [
+    "privacy protection",
+    "face recognition",
+    "facial privacy protection",
+    "black-box setting",
+    "surrogate model",
+    "differential privacy",
+    "facial data",
+    "embeddings",
+    "generative adversarial networks",
+    "face images",
+    "identity information",
+    "sampling",
+    "application programming interfaces (api)",
+    "personal privacy",
+    "attack methods",
+    "arts computing",
+    "multi-modal",
+    "private information",
+    "matchings",
+    "closed box",
+    "image quality",
+    "black-box attack",
+    "adversarial makeup transfer",
+    "target images",
+    "image data",
+    "user privacy",
+    "gradient based",
+    "protection schemes",
+    "algorithm",
+    "neural network model",
+    "social networking (online)"
+   ],
+   [
+    "diffusion models",
+    "data protection",
+    "purification",
+    "restoration",
+    "de-noising",
+    "image diffusion",
+    "fine tuning",
+    "image generations",
+    "purification method",
+    "defence mechanisms",
+    "personalizations",
+    "image denoising",
+    "trajectories",
+    "image coding",
+    "tuning",
+    "privacy infringement",
+    "personal image",
+    "user images",
+    "purification effect",
+    "high quality"
+   ],
+   [
+    "unlearnable examples",
+    "poisoning attacks",
+    "protective perturbation",
+    "data augmentation",
+    "original sample",
+    "unauthorized users",
+    "budget control",
+    "image classification",
+    "test accuracy",
+    "adaptation models",
+    "semantic features",
+    "robustness",
+    "images classification",
+    "model learning",
+    "learning semantics",
+    "gaussian distribution",
+    "pre-training"
+   ],
+   [
+    "adversarial examples",
+    "contrastive learning",
+    "copyright protection",
+    "federated learning",
+    "cross-modal",
+    "machine-learning",
+    "copyright protections",
+    "metalearning",
+    "latent diffusion model",
+    "spatio-temporal data"
+   ],
+   [
+    "wide area networks",
+    "protocols"
+   ],
+   [
+    "user data",
+    "large-scales"
+   ]
+  ]
+ },
+ "mapa": [
+  {
+   "id": 0,
+   "terms": [
+    "privacy protection",
+    "face recognition",
+    "facial privacy protection",
+    "black-box setting",
+    "surrogate model"
+   ],
+   "n": 31,
+   "freq": 157,
+   "cent": 141.87293269295637,
+   "dens": 51.52672411397865
+  },
+  {
+   "id": 1,
+   "terms": [
+    "diffusion models",
+    "data protection",
+    "purification",
+    "restoration",
+    "de-noising"
+   ],
+   "n": 20,
+   "freq": 85,
+   "cent": 129.26399785783667,
+   "dens": 56.399260461760434
+  },
+  {
+   "id": 2,
+   "terms": [
+    "unlearnable examples",
+    "poisoning attacks",
+    "protective perturbation",
+    "data augmentation",
+    "original sample"
+   ],
+   "n": 17,
+   "freq": 81,
+   "cent": 79.35466469472773,
+   "dens": 46.62176635360024
+  },
+  {
+   "id": 3,
+   "terms": [
+    "adversarial examples",
+    "contrastive learning",
+    "copyright protection",
+    "federated learning",
+    "cross-modal"
+   ],
+   "n": 10,
+   "freq": 57,
+   "cent": 78.59261321923368,
+   "dens": 21.918103448275865
+  }
+ ],
+ "AB3": {
+  "n_facial": 33,
+  "n_clas": 55,
+  "asort_obs": 0.479,
+  "asort_perm_media": -0.071,
+  "p_mayor": 0.0002,
+  "term_facial_share": [
+   [
+    "application programming interfaces (api)",
+    1.0,
+    2
+   ],
+   [
+    "closed box",
+    1.0,
+    2
+   ],
+   [
+    "arts computing",
+    1.0,
+    2
+   ],
+   [
+    "facial privacy protection",
+    1.0,
+    12
+   ],
+   [
+    "black-box attack",
+    1.0,
+    2
+   ],
+   [
+    "protection schemes",
+    1.0,
+    2
+   ],
+   [
+    "metalearning",
+    1.0,
+    2
+   ],
+   [
+    "personal privacy",
+    1.0,
+    2
+   ],
+   [
+    "gradient based",
+    1.0,
+    2
+   ],
+   [
+    "identity information",
+    1.0,
+    2
+   ],
+   [
+    "attack methods",
+    1.0,
+    2
+   ],
+   [
+    "latent diffusion model",
+    1.0,
+    2
+   ],
+   [
+    "purification effect",
+    1.0,
+    2
+   ],
+   [
+    "generative adversarial networks",
+    1.0,
+    3
+   ],
+   [
+    "face images",
+    1.0,
+    3
+   ],
+   [
+    "adversarial makeup transfer",
+    1.0,
+    2
+   ],
+   [
+    "social networking (online)",
+    1.0,
+    2
+   ],
+   [
+    "face recognition",
+    1.0,
+    29
+   ],
+   [
+    "user images",
+    1.0,
+    2
+   ],
+   [
+    "target images",
+    1.0,
+    2
+   ],
+   [
+    "facial data",
+    1.0,
+    3
+   ],
+   [
+    "black-box setting",
+    0.89,
+    9
+   ],
+   [
+    "de-noising",
+    0.67,
+    3
+   ],
+   [
+    "restoration",
+    0.67,
+    3
+   ],
+   [
+    "privacy protection",
+    0.67,
+    43
+   ],
+   [
+    "image diffusion",
+    0.67,
+    3
+   ],
+   [
+    "embeddings",
+    0.67,
+    3
+   ],
+   [
+    "differential privacy",
+    0.6,
+    5
+   ],
+   [
+    "adversarial examples",
+    0.59,
+    29
+   ],
+   [
+    "sampling",
+    0.5,
+    2
+   ],
+   [
+    "semantic features",
+    0.5,
+    2
+   ],
+   [
+    "user privacy",
+    0.5,
+    2
+   ],
+   [
+    "neural network model",
+    0.5,
+    2
+   ],
+   [
+    "image quality",
+    0.5,
+    2
+   ],
+   [
+    "personal image",
+    0.5,
+    2
+   ],
+   [
+    "diffusion models",
+    0.5,
+    24
+   ],
+   [
+    "matchings",
+    0.5,
+    2
+   ],
+   [
+    "algorithm",
+    0.5,
+    2
+   ],
+   [
+    "privacy infringement",
+    0.5,
+    2
+   ],
+   [
+    "learning semantics",
+    0.5,
+    2
+   ],
+   [
+    "trajectories",
+    0.5,
+    2
+   ],
+   [
+    "images classification",
+    0.5,
+    2
+   ],
+   [
+    "image coding",
+    0.5,
+    2
+   ],
+   [
+    "private information",
+    0.5,
+    2
+   ],
+   [
+    "spatio-temporal data",
+    0.5,
+    2
+   ],
+   [
+    "high quality",
+    0.5,
+    2
+   ],
+   [
+    "budget control",
+    0.33,
+    3
+   ],
+   [
+    "defence mechanisms",
+    0.33,
+    3
+   ],
+   [
+    "image generations",
+    0.33,
+    3
+   ],
+   [
+    "image denoising",
+    0.33,
+    3
+   ],
+   [
+    "cross-modal",
+    0.33,
+    3
+   ],
+   [
+    "personalizations",
+    0.33,
+    3
+   ],
+   [
+    "image classification",
+    0.33,
+    3
+   ],
+   [
+    "purification",
+    0.29,
+    7
+   ],
+   [
+    "protective perturbation",
+    0.29,
+    14
+   ],
+   [
+    "surrogate model",
+    0.2,
+    5
+   ],
+   [
+    "data protection",
+    0.18,
+    11
+   ],
+   [
+    "poisoning attacks",
+    0.13,
+    15
+   ],
+   [
+    "contrastive learning",
+    0.12,
+    8
+   ],
+   [
+    "unlearnable examples",
+    0.12,
+    17
+   ],
+   [
+    "purification method",
+    0.0,
+    3
+   ],
+   [
+    "model learning",
+    0.0,
+    2
+   ],
+   [
+    "image data",
+    0.0,
+    2
+   ],
+   [
+    "wide area networks",
+    0.0,
+    2
+   ],
+   [
+    "tuning",
+    0.0,
+    2
+   ],
+   [
+    "data augmentation",
+    0.0,
+    4
+   ],
+   [
+    "protocols",
+    0.0,
+    2
+   ],
+   [
+    "machine-learning",
+    0.0,
+    2
+   ],
+   [
+    "large-scales",
+    0.0,
+    2
+   ],
+   [
+    "multi-modal",
+    0.0,
+    2
+   ],
+   [
+    "robustness",
+    0.0,
+    2
+   ],
+   [
+    "federated learning",
+    0.0,
+    3
+   ],
+   [
+    "gaussian distribution",
+    0.0,
+    2
+   ],
+   [
+    "copyright protection",
+    0.0,
+    4
+   ],
+   [
+    "user data",
+    0.0,
+    2
+   ],
+   [
+    "adaptation models",
+    0.0,
+    2
+   ],
+   [
+    "fine tuning",
+    0.0,
+    3
+   ],
+   [
+    "test accuracy",
+    0.0,
+    3
+   ],
+   [
+    "original sample",
+    0.0,
+    3
+   ],
+   [
+    "unauthorized users",
+    0.0,
+    3
+   ],
+   [
+    "copyright protections",
+    0.0,
+    2
+   ],
+   [
+    "pre-training",
+    0.0,
+    2
+   ]
+  ],
+  "comunidad_facial_media": [
+   0.76,
+   0.44,
+   0.16,
+   0.35,
+   0.0,
+   0.0
+  ],
+  "puente": [
+   [
+    "privacy protection",
+    29,
+    14
+   ],
+   [
+    "adversarial examples",
+    17,
+    12
+   ],
+   [
+    "diffusion models",
+    12,
+    12
+   ],
+   [
+    "unlearnable examples",
+    2,
+    15
+   ],
+   [
+    "poisoning attacks",
+    2,
+    13
+   ],
+   [
+    "protective perturbation",
+    4,
+    10
+   ],
+   [
+    "data protection",
+    2,
+    9
+   ],
+   [
+    "purification",
+    2,
+    5
+   ],
+   [
+    "differential privacy",
+    3,
+    2
+   ]
+  ],
+  "betweenness_top": [
+   [
+    "privacy protection",
+    0.441
+   ],
+   [
+    "diffusion models",
+    0.233
+   ],
+   [
+    "unlearnable examples",
+    0.184
+   ],
+   [
+    "adversarial examples",
+    0.127
+   ],
+   [
+    "face recognition",
+    0.094
+   ],
+   [
+    "poisoning attacks",
+    0.081
+   ],
+   [
+    "protective perturbation",
+    0.058
+   ],
+   [
+    "data augmentation",
+    0.023
+   ]
+  ]
+ },
+ "AB2_35": {
+  "n": 31,
+  "top": [
+   [
+    "privacy protection",
+    13
+   ],
+   [
+    "unlearnable examples",
+    11
+   ],
+   [
+    "poisoning attacks",
+    10
+   ],
+   [
+    "adversarial examples",
+    7
+   ],
+   [
+    "contrastive learning",
+    5
+   ],
+   [
+    "diffusion models",
+    4
+   ],
+   [
+    "face recognition",
+    4
+   ],
+   [
+    "protective perturbation",
+    3
+   ],
+   [
+    "surrogate model",
+    3
+   ],
+   [
+    "data protection",
+    3
+   ],
+   [
+    "cross-modal",
+    2
+   ],
+   [
+    "pre-training",
+    2
+   ]
+  ],
+  "solape_top12": [
+   "adversarial examples",
+   "contrastive learning",
+   "data protection",
+   "diffusion models",
+   "face recognition",
+   "poisoning attacks",
+   "privacy protection",
+   "protective perturbation",
+   "unlearnable examples"
+  ]
+ },
+ "tendencia": {
+  "privacy protection": {
+   "2021": 1,
+   "2022": 0,
+   "2023": 4,
+   "2024": 8,
+   "2025": 19,
+   "2026": 11
+  },
+  "face recognition": {
+   "2021": 1,
+   "2022": 0,
+   "2023": 3,
+   "2024": 4,
+   "2025": 12,
+   "2026": 9
+  },
+  "adversarial examples": {
+   "2021": 1,
+   "2022": 0,
+   "2023": 2,
+   "2024": 8,
+   "2025": 12,
+   "2026": 6
+  },
+  "diffusion models": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 3,
+   "2024": 5,
+   "2025": 10,
+   "2026": 6
+  },
+  "unlearnable examples": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 2,
+   "2024": 5,
+   "2025": 5,
+   "2026": 5
+  },
+  "poisoning attacks": {
+   "2021": 0,
+   "2022": 1,
+   "2023": 4,
+   "2024": 7,
+   "2025": 2,
+   "2026": 1
+  },
+  "protective perturbation": {
+   "2021": 0,
+   "2022": 1,
+   "2023": 1,
+   "2024": 3,
+   "2025": 5,
+   "2026": 4
+  },
+  "facial privacy protection": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 2,
+   "2025": 6,
+   "2026": 4
+  },
+  "data protection": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 3,
+   "2024": 1,
+   "2025": 6,
+   "2026": 1
+  },
+  "black-box setting": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 1,
+   "2024": 1,
+   "2025": 4,
+   "2026": 3
+  }
+ }
+}
